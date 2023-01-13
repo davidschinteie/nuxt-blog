@@ -1,0 +1,1 @@
+import t from"./ContentSlot.adcdcdd8.js";import{a as n,o as s,b as a,e as c}from"./entry.b553b812.js";const r={},l={class:"max-w-full overflow-x-auto"};function _(o,f){const e=t;return s(),a("pre",l,[c(e,{use:o.$slots.default,unwrap:"p"},null,8,["use"])])}const p=n(r,[["render",_]]);export{p as default};
